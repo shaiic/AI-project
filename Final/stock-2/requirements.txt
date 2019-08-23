@@ -1,0 +1,7 @@
+pandas-datareader
+#fix-yahoo-finance
+yfinance
+numpy==1.16.0
+pandas
+tensorflow
+keras
